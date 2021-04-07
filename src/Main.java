@@ -28,28 +28,20 @@ public class Main{
 
      Thread.sleep(2000);
 
-    
-
-
-
-
-
-
 
      
         Deck deck1 = new Deck();
-           // deck1.shuffle();
+           deck1.shuffle();
+
+           deck1.pick();
 
            deck1.hand();
            deck1.hand();
            deck1.hand();
            deck1.hand();
-           deck1.hand();
-           deck1.hand();
-           deck1.hand();
-           deck1.hand();
-           deck1.hand();
-           deck1.hand();
+
+           deck1.head();
+           
             
             
 
