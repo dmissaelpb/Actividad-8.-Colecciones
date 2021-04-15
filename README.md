@@ -57,3 +57,8 @@ Incluye una breve definición de cómo funciona la baraja de poker.
 Incluye la liga al repositorio en el reporte realizado.
 NOTA: Deberás respetar las reglas de las cartas de poker en cuanto al color de cada palo y los valores.
 >>>>>>> 365fd02056931a31497fce88a0497604bc3197a6
+>>>>>>> 
+
+
+actualizacion con la vercion 3 del archivo inclulle un menu de control para las fuciones de las clase descritasdentro del programa 
+mejora de la interfas grafica del programa poker 1.0.3 
