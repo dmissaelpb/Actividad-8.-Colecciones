@@ -10,7 +10,7 @@ public class Deck{
      private int error ;
 
      public Deck() {
-          System.out.println("creando DECK");
+          System.out.print("creando DECK: ");
           String caras [] = { " A", " 2", " 3", " 4", " 5", " 6", " 7"," 8", " 9", "10", " J", " Q", " R"};
           String palos [] = { "\u2665", "\u2666", "\u2663", "\u2664"};
           String colors[] = { "Rojo  |", "Negro |"};

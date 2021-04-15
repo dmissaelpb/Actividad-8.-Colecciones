@@ -61,4 +61,4 @@ NOTA: Deberás respetar las reglas de las cartas de poker en cuanto al color de 
 
 
 actualizacion con la vercion 3 del archivo inclulle un menu de control para las fuciones de las clase descritasdentro del programa 
-mejora de la interfas grafica del programa poker 1.0.3 
+mejora de la interfas grafica del programa poker 1.0.03
